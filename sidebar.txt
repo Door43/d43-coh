@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[coh:home|Door43 (coh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-coh|d43-coh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-coh/archive/master.zip|d43-coh.zip]]
+
+**Recent Changes**
+{{changes>ns = coh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/coh|Ethnologue data]]
+
